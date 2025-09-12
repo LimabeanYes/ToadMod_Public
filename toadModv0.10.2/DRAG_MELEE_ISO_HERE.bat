@@ -5,7 +5,7 @@ echo.
  
 cd /d %~dp0 
  
-xdelta3.exe -d -f -s %1 "patch.xdelta" "toadModv0.10.0.iso" 
+xdelta3.exe -d -f -s "%1" "patch.xdelta" "toadModv0.10.2.iso" 
  
 echo. 
 echo Done 
