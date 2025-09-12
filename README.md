@@ -8,7 +8,7 @@ and after applying the patch:
 
 # If you are not on Windows
 
-- Extract the zip file, get the patch and apply on this website:
+- Extract the zip file, get the patch and apply on this website: https://kotcrab.github.io/xdelta-wasm/
 
 # Other issues
 
