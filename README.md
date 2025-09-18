@@ -4,7 +4,7 @@ Before building, ensure your MD5s are correct!
 Use this website to check iso md5: https://emn178.github.io/online-tools/md5_checksum.html
 ### Melee NTSC 1.02 MD5: 0e63d4223b01d9aba596259dc155a174
 and after applying the patch:
-### ToadModv0.10.2 MD5: 434fe7517597629fe06d67db554bb44f or 3126447a1431ae1dd7086fcc142730f3
+### ToadModv0.11.0 MD5 c8ccf33ebeac47a7c74e93fda1b8ff11
 
 # If you are not on Windows
 
