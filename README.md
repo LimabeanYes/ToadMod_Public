@@ -18,3 +18,6 @@ All you need to do is drag your iso onto the "drag here" file
 - New green greens stage is incomplete - do not select
 - Link & young link boomerang crashes on wii?
 - Samus zair crashes on wii?
+
+
+# Also balanced melee exists
