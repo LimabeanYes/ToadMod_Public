@@ -19,7 +19,7 @@ All you need to do is drag your iso onto the "drag here" file
 
 # Also balanced melee exists
 
-# Toad Mod General Character Changes (as of version 0.16.0)
+# Toad Mod General Character Changes (as of version 0.17.0)
 *note, this will not be an exhaustive list of changes, I will miss some, but I am mainly looking to note the general changes to a character as someone who did not write any code for the mod*
 
 Things to expect in general:
@@ -90,8 +90,9 @@ Better dashdance and higher jumps, better ff
 - Bair sends down
 - Dair is insane.
 
-## C-falcon
+## Captain Falcon
 Made of ooblek
+- Jab 3 is electric
 - Knee sends more upwards
 - Dair sends more outwards
 - (grounded) Down B can be  jump-cancelled (at any point other than hitlag)
@@ -134,6 +135,7 @@ Much better movement, especially jumps
 - Uptilt has extra (electric) hitboxes, final hits send out and down
 - Up b projectile has much better mobility
 - Nair and fair have extra (electric) hitboxes. Nair is bigger because of this
+- Down B is now a shine, similar to Fox's
 
 ## Ice climbers
 don't
@@ -145,6 +147,7 @@ don't
 - Second hit of nair sends down
 - Dair sends more outwards
 - Up-b on hit sends ganon zooming upwards
+- A neutral B completed in the air kills Ganondorf
 - Down b
   - Grounded down b launches ganon into the air
   - Aerial down b, upon landing, slides along the ground with a hitbbox for a part of the slide
@@ -280,6 +283,8 @@ He's fast
 - Weaker upair
 - Much stronger fair
 - Nair sends up
+- Single hit upsmash
+- Faster upthrow animation compared to previous toad mod versions
 
 ## Rosalina
 Based off of peach
@@ -295,5 +300,23 @@ Based off of peach
 - Upthrow longer multihit animation
 - Fthrow is weaker
 - Grounded side b slides and has much less end-lag
+
+## Peppy
+Based off of falco
+- Dtilt sends more outwards
+- Dash attack teleports peppy backwards before launching forwards (try a boost grab with it!!!)
+- Upsmash is electric
+- Dsmash sends mostly up
+- Fsmash sends up
+- Throws work but do not do laser damage
+- Fair is like sheiks
+- Upair is stronger
+- Dair is drill where the hits send up 
+- Laser does little to grounded opponents, but sends aerial opponents up and inwards
+- Up B carries lots of momentum after the move
+- Side B has a strong hitbox, hitting it in the air lets peppy act instantly
+- Shine is a multihit which does not send anywhere
+
+
 
   
