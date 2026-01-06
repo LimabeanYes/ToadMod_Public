@@ -196,6 +196,7 @@ I did this one from memory
 - Dair rehit rate is much shorter, it can multi hit very quickly
 - Upair sends outwards 
 - Ledge jump height is greatly increased
+- Dtilt has more knockback growth
 
 ## Samus
 Faster on the ground and in the air, less floaty
@@ -237,14 +238,14 @@ Has been through some changes
 - Jab 2 pops opponents up more
 - Dtilt sends up
 - Upair is stronger and sends out
-- Bair is weaker
+- Bair is weaker & hits slightly higher up
 - Last hit of dair pops up
 - Dthrow has less knockback
 - Up B does damage
-- Rest has less knockback but way less endlag
-- Puff has a small change of air-tripping, where she will go into freefall
+- (removed in v0.18.0)Rest has less knockback but way less endlag
+- (removed in v0.18.0) Puff has a small change of air-tripping, where she will go into freefall
 - Passive damage effect
-  - I need toad to explain this I do not know
+  - edited as of v0.18.0, now a random 1/1000 chance to do damage
 
 ## Mewtwo
 I like this mewtwo
@@ -308,14 +309,15 @@ Based off of falco
 - Upsmash is electric
 - Dsmash sends mostly up
 - Fsmash sends up
-- Throws work but do not do laser damage
+- Throws work, lasers have very low knockback growth
 - Fair is like sheiks
 - Upair is stronger
 - Dair is drill where the hits send up 
 - Laser does little to grounded opponents, but sends aerial opponents up and inwards
 - Up B carries lots of momentum after the move
 - Side B has a strong hitbox, hitting it in the air lets peppy act instantly
-- Shine is a multihit which does not send anywhere
+- Shine pops players up & in
+- Up tilt has very high base knockback and low knockback growth
 
 
 
