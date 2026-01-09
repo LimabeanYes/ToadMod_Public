@@ -1,3 +1,9 @@
+# CREDITS
+- Dewrion & Bizzozeron: Slippy Toad over Fox skin
+- Aceman3000: Peppy Hare over Falco skin
+- ????: Rosalina over peach skin
+- Nim: Toad over Ness skin
+
 # ToadMod_Public
 
 Before building, ensure your MD5s are correct!
