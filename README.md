@@ -319,6 +319,12 @@ Based off of falco
 - Shine pops players up & in
 - Up tilt has very high base knockback and low knockback growth
 
-
+## Slippy
+Based off of fox
+- laser multiplies all velocities by 0.85 on hit
+- Dair is a meteor
+- Fair is a drill
+- Side B has significantly less endlag. You can walljump to cancel side b once while in the air. This is reset when you touch the ground.
+- Attributes edited, lighter and slightly faster
 
   
