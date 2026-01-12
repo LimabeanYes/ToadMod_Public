@@ -83,10 +83,15 @@ Brand new character
 
 ## Yoshi
 Better dashdance
-- Uptilt, ftilt & upsmash send out
+- ftilt & upsmash send out
 - Dtilt sends up more
 - Dair meteors on each hit
 - DJC works more like ness?
+- As of v0.20.0, Yoshi now can jump out of shield and no longer has DJC
+- Up tilt has high base knockback
+- Grabs are faster & more reliable
+- Up air sends slightly more out
+- Side B is now a recovery move, with a high jump at the start
 
 ## DK
 Better dashdance and higher jumps, better ff
