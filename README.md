@@ -1,5 +1,6 @@
 # CREDITS
 - Dewrion & Bizzozeron: Slippy Toad over Fox skin
+- Dewrion: Casino Luigi
 - Aceman3000: Peppy Hare over Falco skin
 - ????: Rosalina over peach skin
 - Nim: Toad over Ness skin
@@ -83,7 +84,7 @@ Brand new character
 
 ## Yoshi
 Better dashdance
-- ftilt & upsmash send out
+- ftilt, Fair & upsmash send out
 - Dtilt sends up more
 - Dair meteors on each hit
 - DJC works more like ness?
@@ -92,6 +93,7 @@ Better dashdance
 - Grabs are faster & more reliable
 - Up air sends slightly more out
 - Side B is now a recovery move, with a high jump at the start
+- Fair is much faster
 
 ## DK
 Better dashdance and higher jumps, better ff
@@ -338,4 +340,17 @@ Based off of fox
 - Side B has significantly less endlag. You can walljump to cancel side b once while in the air. This is reset when you touch the ground.
 - Attributes edited, lighter and slightly faster
 
-  
+## Dealer
+- Peach-esque dash attack
+- Higher knockback growth on dtilt
+- jab3 knocks up higher
+- Removed weight set knockback from down angle side tilt
+- Up tilt: Increased base knockback, reduced knockback growth
+- Up smash has a bigger hitbox, but less disjoint
+- Fair is a weak spike
+- Dsmash sends out
+- Bair sends up
+- Up Air lasts longer
+- Multihit dair
+- grabs send at slightly different angles
+- Less slidy, bit more air movement
