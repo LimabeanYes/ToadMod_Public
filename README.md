@@ -1,4 +1,9 @@
+# If u like this :)
+pls support me <3
+https://ko-fi.com/toadawsom
+
 # CREDITS
+- ToadAwsom for code changes, balancing and ALL decisions
 - Dewrion & Bizzozeron: Slippy Toad over Fox skin
 - Dewrion: Casino Luigi
 - Aceman3000: Peppy Hare over Falco skin
