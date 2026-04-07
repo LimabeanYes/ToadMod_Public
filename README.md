@@ -26,7 +26,7 @@ All you need to do is drag your iso onto the "drag here" file
 
 # Also balanced melee exists
 
-# Toad Mod General Character Changes (as of version 0.17.0)
+# Toad Mod General Character Changes (as of version 0.23.0)
 *note, this will not be an exhaustive list of changes, I will miss some, but I am mainly looking to note the general changes to a character as someone who did not write any code for the mod*
 
 Things to expect in general:
@@ -240,11 +240,12 @@ Feels about normal
 - Down B sends more out
 - Bair lasts much longer
 - Upair is now electric
-- Dair sends downwards
+- Dair sends out and has significantly less landing lag
 - Side B has no hitbox
 - Upsmash sends out
 - Dsmash sends more out
 - Forward smash sends behind
+- Try shield break
 
 ## Jigglypuff
 Has been through some changes
