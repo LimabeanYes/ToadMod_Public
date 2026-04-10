@@ -39,10 +39,13 @@ Things to expect in general:
 - Large women (Don't ask me)
 
 ## Dr Mario
-Generally feels the same as vanilla Dr Mario, though with some funky moves and stronger movement
+Is now a big big fella
+- Jumpsquat of 14 frames!!
+- Overall slower
+- Various normal states like running, dashing, special fall, landing, etc. now have hitboxes
+
 - Up tilt and Up smash send more horizontally
 - Dtilt sends backwards
-- Bair sends up
 - Dthrow, Up air and Down air are electric
 - Down B makes you flat
 - Dash attack slides back near the end of  the animation
@@ -56,17 +59,11 @@ Has been hitting the gym. His arms are longer (this changes hitboxes)
 - Upthrow reduced knockback and sends forward
 
 ## Luigi
-Run speed, fall speed, and traction are greatly increased
-- Dtilt does more damage
-- Fthrow reduced knockback and sends up
-- Upthrow reduced knockback and sends forward
-- Dash attack can be cancelled after some frames
-- Aerial up b goes much higher
-- Side B odds changed, cancels lag on landing, can cancel with ledge grab after firing
-- Fair is now Dair
-- Dair just doesnt work at all and its also sideways
-- Upair is now electric
-- Nair sends out
+- Now has negative friction!
+- has a unintended bug with voodoo dashing... give it a go!
+- Dash attack hitboxes edited
+- Higher knockback growth on dtilt
+(probably some other stuff i am forgetting)
 
 ## Bowser
 Rather than list move changes, he now has:
@@ -76,11 +73,14 @@ Rather than list move changes, he now has:
 - Armour on smash attacks
 
 ## Peach
-Peach is now larger.
-- 3f jumpsquat
+Peach is now smaller.
+- overall faster
 - electric turnips
-- faster weaker fair
-- reduced traction for better WDs
+- Up b gives less height
+- down smash is not as busted
+- Up air has a cool strong hit thingy
+- dtilt sends more out
+- jab 2 sends out
 
 ## Toad
 Brand new character
@@ -106,7 +106,7 @@ Better dashdance and higher jumps, better ff
 - Dash attack movement changed slightly
 - Upair sends a bit more outwards
 - Bair sends down
-- Dair is insane.
+- Dair is insane. <------------
 
 ## Captain Falcon
 Made of ooblek
@@ -116,6 +116,7 @@ Made of ooblek
 - (grounded) Down B can be  jump-cancelled (at any point other than hitlag)
 - Falcon punch now scales with falcons momentum (in any direction) at the point of input
 - Faclon can grab ledge after side B, side B from stage to offstage does not go into freefall
+- backair has a front hitbox
 
 ## Falco
 is very fun
@@ -156,7 +157,7 @@ Much better movement, especially jumps
 - Down B is now a shine, similar to Fox's
 
 ## Ice climbers
-don't
+don't (crashes on slippi due to classic mode intro scene...)
 - nana is larger
 
 ## Ganondorf
@@ -169,8 +170,9 @@ don't
 - Down b
   - Grounded down b launches ganon into the air
   - Aerial down b, upon landing, slides along the ground with a hitbbox for a part of the slide
-  - Fthrow sends more downwards
-  - Aerial neutral B kills ganon
+- Fthrow sends more downwards
+- Back throw can kill
+- Aerial neutral B kills ganon
 
 ## Young link
 - All of his tilts are much faster in terms of endlag
@@ -360,3 +362,6 @@ Based off of fox
 - Multihit dair
 - grabs send at slightly different angles
 - Less slidy, bit more air movement
+
+## Waluigi
+Just a very fucked up guy... nothing is final, this is very much just a taste test right now because I think i am stuck on what to do with him
