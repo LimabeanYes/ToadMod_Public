@@ -31,7 +31,7 @@ All you need to do is drag your iso onto the "drag here" file
 
 # Also balanced melee exists
 
-# Toad Mod General Character Changes (as of version 0.23.0)
+# Toad Mod General Character Changes (as of version 0.26.0)
 *note, this will not be an exhaustive list of changes, I will miss some, but I am mainly looking to note the general changes to a character as someone who did not write any code for the mod*
 
 Things to expect in general:
