@@ -74,13 +74,15 @@ Rather than list move changes, he now has:
 
 ## Peach
 Peach is now smaller.
-- overall faster
-- electric turnips
-- Up b gives less height
-- down smash is not as busted
+- overall faster, less floaty, etc.
+- Turnips & dashattack have cape-like properties
+- Up b different due to higher gravity
+- down smash is stupid
 - Up air has a cool strong hit thingy
 - dtilt sends more out
 - jab 2 sends out
+- Ftilt & utilt much faster and with actual utility
+- Hitboxes take up a lot of space now
 
 ## Toad
 Brand new character
@@ -280,6 +282,7 @@ I like this mewtwo
   - Dropping your shield (not shield-dropping, just releasing shield) will give mewtwo a falco-like shine hitbox
   - This hitbox occurs whether or not someone hits your shield
   - The hitbox only happens if the shield release animation occurs
+- Confusion reaches a bit further
 
 ## Mr. Game & Watch
 Is now a fast faller
@@ -301,12 +304,13 @@ He's fast
 - Single-hit upsmash
 - Up B single-hit focused, very strong
 - Dthrow is slower and stronger
-- New upthrow animation
-- Weaker upair
-- Much stronger fair
-- Nair sends up
-- Single hit upsmash
-- Faster upthrow animation compared to previous toad mod versions
+- New upthrow with cool sparkles :D
+- Upair stronger, and hitbox stays out longer
+- Fair is... different
+- Nair sends up & hitbox lasts longer
+- Ftilt sends up
+- hitboxes generally thinner to make up for being such a fast swordie
+- dash attack faster...
 
 ## Rosalina
 Based off of peach
@@ -342,6 +346,7 @@ Based off of falco
 
 ## Slippy
 Based off of fox
+- Has "laser boosting"
 - laser multiplies all velocities by 0.85 on hit
 - Dair is a meteor
 - Fair is a drill
